@@ -17,3 +17,5 @@
   [2021](https://github.com/aconconi/advent-of-code-2021)
   [2022](https://github.com/aconconi/advent-of-code-2022)
   [2023](https://github.com/aconconi/advent-of-code-2023)
+  [2024](https://github.com/aconconi/advent-of-code-2024)
+  [2025](https://github.com/aconconi/advent-of-code-2025)
