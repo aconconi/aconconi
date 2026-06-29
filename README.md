@@ -1,6 +1,6 @@
 # Ciao! I'm Alex 👋
 
-Tech and Data Leader building human-centered digital experiences and AI solutions.
+Tech and AI Leader building digital experiences and AI solutions.
 
 ## Some stuff I enjoy
 - [Codewars](https://www.codewars.com/users/alexc19): "competitive" coding, where I've completed 500+ katas \
